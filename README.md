@@ -1,6 +1,6 @@
 # Seungju Wi (위승주)
 
-**Problem Solver (Product Manager) at LIKELION · Founder of Gourmevel**
+**Problem Solver at LIKELION · Founder of Gourmevel**
 
 I take products from problem definition to launch, using AI to plan, build, and ship end to end.
 
