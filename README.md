@@ -1,4 +1,4 @@
-# Seungju Wi (위승주)
+# Seungju WI (위승주)
 
 **Problem Solver at LIKELION · Founder of Gourmevel**
 
